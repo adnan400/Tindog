@@ -1,0 +1,226 @@
+#title {
+    background-color: #ff4c68;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+#hh {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    padding-bottom: 40px;
+   
+
+}
+
+a {
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#hhhh {
+    font-size: 3rem;
+    line-height: 1.5;
+
+}
+
+#h2 {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+p {
+    color: #8f8f8f;
+}
+
+#Adnan {
+    padding: 3% 15% 7%;
+}
+
+.rotated {
+    width: 20%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 20%;
+}
+/* CTA section */
+
+#cta{
+    background-color: #ff4c68;
+    color: #fff;
+    padding: 7% 15%;
+    text-align:center;
+}
+.cta-heading{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+/* Footer Section */
+
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+.social-icons {
+    margin: 20px 10px;
+    
+}
+
+
+
+@media (max-width:1100px) {
+
+    #title{
+        text-align: center;
+    }
+    .rotated{
+        position: static;
+        transform: rotate(0);
+    }
+    
+}
+
+
+
+/* Navigation Bar */
+
+
+#tindog {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+
+
+
+}
+
+#navbar {
+    padding-bottom: 4.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Ubuntu';
+}
+
+/*****************************************Download Botton ************************************************************************/
+.download-botton {
+    margin: 5% 3% 5% 0;
+}
+
+/********************************************* Features ************************************************************************/
+
+
+#features {
+    padding: 7% 15%;
+    background-color: white;
+    position: relative;
+      
+    
+}
+
+
+.feature-box {
+    text-align: center;
+
+}
+
+#easy {
+    padding: 4.5%;
+}
+
+#elite {
+    padding: 4.5%;
+
+}
+
+#work {
+    padding: 4.5%;
+
+}
+
+#h3 {
+    font-size: 1.3rem;
+}
+
+#h3- {
+    font-size: 1.3rem;
+}
+
+#h3-- {
+    font-size: 1.3rem;
+}
+
+.ico {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.ico:hover {
+    color: #ff4c68;
+}
+
+
+
+/* Testmonials section */
+
+#testimonials {
+
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+
+
+.dog-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 30px;
+}
+
+/* #hhh{
+    margin: 20px;
+} */
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding: 3%;
+}
+
+.logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+
+}
+
+
+/* Pricing Section */
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.pc {
+    padding: 3% 2% 3% 2%;
+}
